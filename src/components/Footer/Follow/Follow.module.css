@@ -1,0 +1,25 @@
+.block {
+  margin-top: 163px;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  margin-right: 24px;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.line {
+  margin-right: 24px;
+  width: 56px;
+  height: 1px;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+.img {
+  margin-right: 10px;
+}

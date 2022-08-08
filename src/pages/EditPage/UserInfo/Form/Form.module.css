@@ -1,0 +1,22 @@
+.label {
+  margin-top: 24px;
+  display: block;
+  padding: 9px 16px;
+  width: 788px;
+  height: 56px;
+  background: #ffffff;
+  border: 1px solid #dad9e3;
+  border-radius: 8px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #7d8899;
+}
+
+.input {
+  display: block;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #1e232a;
+}

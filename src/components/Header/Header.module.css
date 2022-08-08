@@ -1,0 +1,73 @@
+.container {
+  height: 80px;
+  box-sizing: border-box;
+  padding: 18px 0 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+}
+
+.button_search {
+  margin-right: 40px;
+  width: 24px;
+  height: 24px;
+}
+
+.buttons,
+.button_discover,
+.button_community {
+  display: flex;
+}
+
+.button_activity {
+  margin-right: 40px;
+}
+
+.arrow_down {
+  margin: 0 40px 0 12px;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #969da4;
+}
+
+.global {
+  margin-right: 12px;
+  width: 24px;
+  height: 24px;
+}
+
+.language {
+  text-transform: uppercase;
+  margin-right: 40px;
+}
+
+.button_theme {
+  margin-right: 40px;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: linear-gradient(145.15deg, #ef3dff 9.33%, #00e0ff 87.91%);
+}
+
+.button_create {
+  box-sizing: initial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 111px;
+  height: 45px;
+  border: 2px solid #000000;
+  border-radius: 16px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
